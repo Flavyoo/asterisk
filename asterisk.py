@@ -92,7 +92,7 @@ def pyramid_down(cols, sym1):
 
 def pyramid_up(cols, sym1):
     """
-    Draws a pyramid. Add a space to your sym1 parameter.
+    Draws a pyramid. Adds a space to your sym1 parameter.
     Cols is an int, sym must be string.
     """
     for i in range(cols + 1, 0, -1):
